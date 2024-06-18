@@ -7,13 +7,13 @@
     },
     {
       "author": "J. K. Rowling",
-      "coverPhotoURL": "FullStack_Cover.PNG",
+      "coverPhotoURL": "Harry_Potter_Cover.jpg",
       "readingLevel": "Intermediate",
       "title": "Harry Potter and the Philosopher's Stone"
     },
     {
       "author": "Chris Northwood",
-      "coverPhotoURL": "Harry_Potter_Cover.jpg",
+      "coverPhotoURL": "FullStack_Cover.PNG",
       "readingLevel": "Advanced",
       "title": "The Full Stack Developer"
     }
