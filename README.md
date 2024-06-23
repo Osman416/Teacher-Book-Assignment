@@ -11,15 +11,15 @@ Steps to Run
 1. Clone this repository
 
 2. Run the Backend Server:
-cd ../backend
-npm install
-npm run start
--This will start the backend server on http://localhost:4000/.
+cd ../backend  
+npm install  
+npm run start  
+  -This will start the backend server on http://localhost:4000/.
 
-3. Run the Frontend:
-cd ../frontend
-npm install
-npm start
--This will start the React development server on http://localhost:3000/.
+4. Run the Frontend:
+cd ../frontend  
+npm install  
+npm start  
+  -This will start the React development server on http://localhost:3000/.
 
 Open your browser and navigate to http://localhost:3000/.
